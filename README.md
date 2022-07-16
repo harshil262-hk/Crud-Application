@@ -1,2 +1,0 @@
-# Crud-Application
-This crud application is create on php framework "codeigniter" which will use MVC pattern in this application user can Add a different categories ie i gave basics authentication of users like email, name etc after a words user  can update ,read &amp; delete that data user gave . In this  used  markup language HTML wiyh using  PHP, BOOTSTRAP &amp;  some line of code of JAVASCRIPT.
